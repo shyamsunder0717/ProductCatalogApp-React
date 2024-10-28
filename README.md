@@ -12,7 +12,7 @@ A React Native application that allows users to select products, enter pincodes,
 - [License](#license)
 
 ## Demo
-[Live Demo URL](https://your-live-demo-url.com) *(Replace with your actual live URL once hosted)*
+[Live Demo URL](https://DeliveryEstimatorApp.netlify.app) *(Replace with your actual live URL once hosted)*
 
 ## Features
 - Product selection from a catalog.
