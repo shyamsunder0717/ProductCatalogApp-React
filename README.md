@@ -32,7 +32,7 @@ A React Native application that allows users to select products, enter pincodes,
 ## 🎯 Hosting and Deployment
 
 ### Deploy on Vercel
-1. Sign up for Vercel.
+1. Sign up for [Vercel](https://vercel.com).
 2. Install the Vercel CLI:
    ```bash
    npm install -g vercel
@@ -40,7 +40,7 @@ A React Native application that allows users to select products, enter pincodes,
    ```bash
    vercel
 ### Deploy on Netlify
-1. Sign up for Netlify.
+1. Sign up for [Netlify](https://www.netlify.com).
 2. Build the web-compatible app with Expo
    ```bash
    npx expo build:web
