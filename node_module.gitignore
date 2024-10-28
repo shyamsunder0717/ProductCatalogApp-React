@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# node modules
+node_modules/
+
+# metro bundler cache
+.expo/
+
+# yarn
+yarn-error.log
+
+# dependencies
+package-lock.json
+yarn.lock
+
+# Android/IntelliJ
+android/.gradle/
+android/app/build/
+android/.idea/
+android/local.properties
+android/.idea/caches
+android/.idea/libraries
+android/.idea/shelf
+android/.idea/workspace.xml
+android/app/src/debug/
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/build/
