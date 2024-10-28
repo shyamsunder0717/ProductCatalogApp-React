@@ -29,6 +29,24 @@ A React Native application that allows users to select products, enter pincodes,
 - For iOS, Xcode installed (Mac only).
 - For Android, Android Studio installed and configured.
 
+## 🎯 Hosting and Deployment
+
+### Deploy on Vercel
+1. Sign up for Vercel.
+2. Install the Vercel CLI:
+   ```bash
+   npm install -g vercel
+3. Deploy the app:
+   ```bash
+   vercel
+### Deploy on Netlify
+1. Sign up for Netlify.
+2. Build the web-compatible app with Expo
+   ```bash
+   npx expo build:web
+
+
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/shyamsunder0717/ProductCatalogApp-React.git
